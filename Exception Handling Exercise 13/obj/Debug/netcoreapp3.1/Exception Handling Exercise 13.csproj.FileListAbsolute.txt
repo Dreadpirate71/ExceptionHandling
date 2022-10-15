@@ -1,0 +1,13 @@
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\bin\Debug\netcoreapp3.1\Exception Handling Exercise 13.exe
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\bin\Debug\netcoreapp3.1\Exception Handling Exercise 13.deps.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\bin\Debug\netcoreapp3.1\Exception Handling Exercise 13.runtimeconfig.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\bin\Debug\netcoreapp3.1\Exception Handling Exercise 13.runtimeconfig.dev.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\bin\Debug\netcoreapp3.1\Exception Handling Exercise 13.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\bin\Debug\netcoreapp3.1\Exception Handling Exercise 13.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\obj\Debug\netcoreapp3.1\Exception Handling Exercise 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\obj\Debug\netcoreapp3.1\Exception Handling Exercise 13.AssemblyInfoInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\obj\Debug\netcoreapp3.1\Exception Handling Exercise 13.AssemblyInfo.cs
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\obj\Debug\netcoreapp3.1\Exception Handling Exercise 13.csproj.CoreCompileInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\obj\Debug\netcoreapp3.1\Exception Handling Exercise 13.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\obj\Debug\netcoreapp3.1\Exception Handling Exercise 13.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Exception Handling\Exception Handling Exercise 13\obj\Debug\netcoreapp3.1\Exception Handling Exercise 13.genruntimeconfig.cache
